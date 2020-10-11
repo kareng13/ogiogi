@@ -1,0 +1,143 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    padding-top: 34px;
+}
+.logo{
+    padding-top: 22.5px;
+    display: block;
+}
+.nav-link{
+    color: #5D5F65;
+    font-size: 16px;
+    padding: .5rem 0.8rem;
+}
+.todo-al-centro{
+    width: 100%;
+    height: 615px;
+    display: flex;
+    align-items: center;
+}
+.todo-al-centro h1{
+    color: #141720;
+    font-weight: bold;
+    font-size: 44px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 17px;
+}
+.todo-al-centro h2{
+    font-size: 25px;
+    line-height: 2.4;
+}
+.dos-sec{
+    background: #141720;
+    padding-top: 145px;
+    padding-bottom: 241px;
+    color: #FFFFFF;
+    position: relative;
+}
+.dos-sec h3{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 52px;
+}
+.imagen-dos-sec{
+    width: 50%;
+    height: 679px;
+    background: url(../images/imagen-dos-sec.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.tres-sec{
+    height: 618px;
+    position: relative;
+}
+.tres-sec h3{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 54px;
+}
+.imagen-tres-sec{
+height: 511px;
+width: 261px;
+float: left;
+}
+.texto{
+    height: 314px;
+    width: 451px;
+    float: right;
+    margin-top: 142px;
+}
+.cuatro-sec{
+    padding-top: 143px;
+    padding-bottom: 81px;
+}
+.col-sm-4 h4{
+    margin-top: 21px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.col-sm-4 p{
+    padding-bottom: 70px;
+}
+.cinco-sec{
+    background: #141720;
+    padding-top: 143px;
+    padding-bottom: 241px;
+    color: #FFFFFF;
+    position: relative;
+}
+    .cinco-sec h3{
+        font-family: 'Montserrat', sans-serif;
+        margin-bottom: 52px;
+        font-size: 28px;
+    }
+    .imagen-cinco-sec{
+        width: 50%;
+        height: 679px;
+        background: url(../images/imagen-cinco-sec.jpg);
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .seis-sec{
+        background: #141720;
+        position: relative;
+        color: #FFFFFF;
+    }
+    .seis-sec h3{
+        margin-top: 143.5px;
+        margin-bottom: 30px;
+    }
+    .message{
+        width: 500px;
+        height: 218px;
+    }
+    .btn-danger{
+        width: 170px;
+        height: 50px;
+        border-radius: 50px;
+        color: #FFFFFF;
+        text-align: center;
+        margin-top: 130px;
+        margin-left: 320px
+    }
+    .seis-sec hr{
+        background: #FFFFFF;
+        width: 450px;
+        height: 2px;
+    }
+    .imagen-seis-sec{
+        width: 50%;
+        height: 573px;
+        background: url(../images/Map.jpg);
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
